@@ -1,0 +1,11 @@
+#t1{
+    -fx-fill:red;
+    -fx-font-weight:bold;
+    -fx-font-size:30;
+    -fx-box-reflect:below 10px;
+}
+
+#r1{
+    -fx-fill:linear-gradient(black, white, black);
+    -fx-background-color:white;
+}
